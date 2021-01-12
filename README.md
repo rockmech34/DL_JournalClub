@@ -21,7 +21,7 @@
 	* Presenter: Hengtao
 
 ## February 17, 2021
-* TBA
+* [Understanding and Exploring the Network with Stochastic Architectures](https://papers.nips.cc/paper/2020/file/aa85e45da94cb0d78853c50ba636a15a-Paper.pdf)
 	* Presenter: Fenglei
 
 * TBA
