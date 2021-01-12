@@ -43,7 +43,7 @@
 
 ## March 31, 2021
 * TBA
-	* Presenter: Zheng Fang
+	* Presenter: Xinrui
 
 * TBA
 	* Presenter: Erim
@@ -75,7 +75,3 @@
 
 * TBA
 	* Presenter: Weiwen
- 
-## June 9, 2021
-* TBA
-	* Presenter: Xinrui
