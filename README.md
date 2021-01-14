@@ -14,7 +14,7 @@
 	* Presenter: Xuanang
 
 ## February 03, 2021
-* TBA
+* [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
 	* Presenter: Qing
 
 * TBA
@@ -49,7 +49,7 @@
 	* Presenter: Erim
 
 ## April 14, 2021
-* TBA
+* [RealFormer: Transformer Likes Residual Attention](https://arxiv.org/abs/2012.11747)
 	* Presenter: Chris
 
 * TBA
