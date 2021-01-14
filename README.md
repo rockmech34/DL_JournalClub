@@ -7,10 +7,10 @@
 ## The past journal club list can be found [here](past_list.md)
 
 ## January 20, 2021
-* TBA
+* [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://papers.nips.cc/paper/2020/file/06964dce9addb1c5cb5d6e3d9838f733-Paper.pdf)
 	* Presenter: Chuang
 
-* TBA
+* [Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation](https://proceedings.neurips.cc/paper/2020/file/243be2818a23c980ad664f30f48e5d19-Paper.pdf)
 	* Presenter: Xuanang
 
 ## February 03, 2021
