@@ -6,13 +6,6 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## January 20, 2021
-* [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://papers.nips.cc/paper/2020/file/06964dce9addb1c5cb5d6e3d9838f733-Paper.pdf)
-	* Presenter: Chuang
-
-* [Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation](https://proceedings.neurips.cc/paper/2020/file/243be2818a23c980ad664f30f48e5d19-Paper.pdf)
-	* Presenter: Xuanang
-
 ## February 03, 2021
 * [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
 	* Presenter: Qing
@@ -24,7 +17,7 @@
 * [Understanding and Exploring the Network with Stochastic Architectures](https://papers.nips.cc/paper/2020/file/aa85e45da94cb0d78853c50ba636a15a-Paper.pdf)
 	* Presenter: Fenglei
 
-* TBA
+* [Disentangled Information Bottleneck](https://arxiv.org/abs/2012.07372)
 	* Presenter: Xi
 
 ## March 03, 2021
@@ -38,7 +31,7 @@
 * TBA
 	* Presenter: Mengzhou
 
-* TBA
+* [Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification](https://openreview.net/pdf?id=rJlnOhVYPS)
 	* Presenter: Nathan
 
 ## March 31, 2021
@@ -56,7 +49,7 @@
 	* Presenter: Diego
 
 ## April 28, 2021
-* TBA
+* [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)
 	* Presenter: Fatir
 
 * TBA
