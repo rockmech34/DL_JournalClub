@@ -10,7 +10,7 @@
 * [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
 	* Presenter: Qing
 
-* TBA
+* [Regularizing Deep Networks with Semantic Data Augmentation](https://arxiv.org/abs/2007.10538)
 	* Presenter: Hengtao
 
 ## February 17, 2021
