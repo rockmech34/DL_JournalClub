@@ -24,7 +24,7 @@
 * TBA
 	* Presenter: Aseem
 
-* TBA
+* [Learning Backtrackless Aligned-Spatial Graph Convolutional Networks for Graph Classification](https://ieeexplore.ieee.org/document/9147059)
 	* Presenter: Nneka
 
 ## March 17, 2021
