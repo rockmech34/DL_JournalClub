@@ -7,7 +7,7 @@
 ## The past journal club list can be found [here](past_list.md)
 
 ## February 03, 2021
-* [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
+* [Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://arxiv.org/abs/2101.11986)
 	* Presenter: Qing
 
 * [Regularizing Deep Networks with Semantic Data Augmentation](https://arxiv.org/abs/2007.10538)
