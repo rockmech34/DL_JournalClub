@@ -6,20 +6,6 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## February 03, 2021
-* [Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://arxiv.org/abs/2101.11986)
-	* Presenter: Qing
-
-* [Regularizing Deep Networks with Semantic Data Augmentation](https://arxiv.org/abs/2007.10538)
-	* Presenter: Hengtao
-
-## February 17, 2021
-* [Understanding and Exploring the Network with Stochastic Architectures](https://papers.nips.cc/paper/2020/file/aa85e45da94cb0d78853c50ba636a15a-Paper.pdf)
-	* Presenter: Fenglei
-
-* [Disentangled Information Bottleneck](https://arxiv.org/abs/2012.07372)
-	* Presenter: Xi
-
 ## March 03, 2021
 * TBA
 	* Presenter: Aseem
