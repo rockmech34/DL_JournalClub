@@ -7,9 +7,6 @@
 ## The past journal club list can be found [here](past_list.md)
 
 ## March 03, 2021
-* TBA
-	* Presenter: Aseem
-
 * [Learning Backtrackless Aligned-Spatial Graph Convolutional Networks for Graph Classification](https://ieeexplore.ieee.org/document/9147059)
 	* Presenter: Nneka
 
