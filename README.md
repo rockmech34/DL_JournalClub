@@ -47,9 +47,11 @@
 
 * TBA
 	* Presenter: Weiwen
-	* 
+
 ## June 09, 2021
 * [Learning Backtrackless Aligned-Spatial Graph Convolutional Networks for Graph Classification](https://ieeexplore.ieee.org/document/9147059)
 	* Presenter: Nneka
+
 * [Hold me tight! Influence of discriminative features on deep network boundaries](https://proceedings.neurips.cc/paper/2020/file/1ea97de85eb634d580161c603422437f-Paper.pdf)
-        * Presenter: Aseem
+	* Presenter: Aseem
+
