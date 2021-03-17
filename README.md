@@ -7,7 +7,7 @@
 ## The past journal club list can be found [here](past_list.md)
 
 ## March 17, 2021
-* TBA
+* [Evaluation and development of deep neural networks for image super-resolution in optical microscopy](https://www.nature.com/articles/s41592-020-01048-5)
 	* Presenter: Mengzhou
 
 * [Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification](https://openreview.net/pdf?id=rJlnOhVYPS)
