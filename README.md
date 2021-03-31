@@ -6,19 +6,9 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## March 17, 2021
-* [Evaluation and development of deep neural networks for image super-resolution in optical microscopy](https://www.nature.com/articles/s41592-020-01048-5)
-	* Presenter: Mengzhou
-
-* [Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification](https://openreview.net/pdf?id=rJlnOhVYPS)
-	* Presenter: Nathan
-
 ## March 31, 2021
-* TBA
+* [AdderNet: Do We Really Need Multiplications in Deep Learning?](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_AdderNet_Do_We_Really_Need_Multiplications_in_Deep_Learning_CVPR_2020_paper.pdf)
 	* Presenter: Xinrui
-
-* TBA
-	* Presenter: Erim
 
 ## April 14, 2021
 * [RealFormer: Transformer Likes Residual Attention](https://arxiv.org/abs/2012.11747)
@@ -43,7 +33,7 @@
 
 ## May 26, 2021
 * TBA
-	* Presenter: Hanqing
+	* Presenter: Erim
 
 * TBA
 	* Presenter: Weiwen
