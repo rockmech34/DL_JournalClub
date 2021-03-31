@@ -692,3 +692,9 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 * [Disentangled Information Bottleneck](https://arxiv.org/abs/2012.07372)
 	* Presenter: Xi
 
+## March 17, 2021
+* [Evaluation and development of deep neural networks for image super-resolution in optical microscopy](https://www.nature.com/articles/s41592-020-01048-5)
+	* Presenter: Mengzhou
+
+* [Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification](https://openreview.net/pdf?id=rJlnOhVYPS)
+	* Presenter: Nathan
