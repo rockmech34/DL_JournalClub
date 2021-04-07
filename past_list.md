@@ -698,3 +698,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 * [Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification](https://openreview.net/pdf?id=rJlnOhVYPS)
 	* Presenter: Nathan
+
+## March 31, 2021
+* [AdderNet: Do We Really Need Multiplications in Deep Learning?](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_AdderNet_Do_We_Really_Need_Multiplications_in_Deep_Learning_CVPR_2020_paper.pdf)
+	* Presenter: Xinrui
